@@ -1,4 +1,4 @@
-# Dicord Python Bot
+# Discord Python Bot
 
 A simple discord Bot that deletes curses/swears on a discord server
 
